@@ -1,3 +1,4 @@
+USE students_management;
 -- =====================================================
 -- STUDENT MANAGEMENT DATABASE
 -- MySQL Database Assignment
